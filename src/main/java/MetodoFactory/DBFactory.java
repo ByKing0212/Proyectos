@@ -5,7 +5,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Properties;
 
 public class DBFactory {
-    private static final String DB_FACTORY_PROPERTY_URL = "C:\\Users\\josep\\CURSOS\\JAVA\\ProyectoParcial2TA\\src\\main\\java\\Propiedades\\DBFactory.properties";
+    private static final String DB_FACTORY_PROPERTY_URL = "C:\\Users\\huert\\OneDrive\\Documentos\\Yo\\Yo\\Universidad\\TECNOLOGIAS\\Proyectos\\src\\main\\java\\Propiedades\\DBFactory.properties";
     private static final String DEFAULT_DB_CLASS_PROP = "defaultDBClass";
 
     private static DBFactory instance; // Instancia única de la clase
